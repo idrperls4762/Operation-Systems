@@ -9,3 +9,9 @@ chip which contains firmware with software instructions for startup. The softwar
 Managing Programs-
 
 An important function of any operating system is managing programs. Operating systems can be either single task systems, where only one program can be run at a time, or multitasking where more than one program can be running simultaneously. Multitasking systems run a variety of programs at any given time placing the current program in the foregroung and the porgrams not in use in the background. In addition to programs, operating systems manage multiple processes that support other programs, and either run constantly or when needed.  
+
+
+Coordinating tasks-
+
+Operating systems determine the order of when tasks are processed. Some tasks are considered higher prioirty than others. While tasks are waiting to be transefered from an input devices to an output device they are put into a segment of memory called the buffer. The network administration can label tasks higher in priority than other to create better efficiency.  
+

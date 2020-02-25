@@ -1,0 +1,6 @@
+Booting-
+
+The process of power cylcing your computer is called booting or rebooting. Booting your computer can be simply shutting your
+computer off and on to save power or restarting to install software. A cold boot is when a computer or device is powered off
+completely as opposed to a warm reboot that leaves the power on. Booting a computer send electical power signals to the processing
+chip which contains firmware with software instructions for startup. The software instructions are storage in the RAM of the computer. 
